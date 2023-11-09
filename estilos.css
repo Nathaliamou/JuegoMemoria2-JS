@@ -1,0 +1,14 @@
+.altura-img{
+    height: 200px;
+}
+body{
+    background-color: rgb(186, 124, 243);
+    }
+
+
+.container
+{
+    display:flexbox;
+    flex-direction:unset;
+    justify-content:center;
+}
